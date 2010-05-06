@@ -1,0 +1,27 @@
+#Resources: 15 , Tasks: 80 , Population: 3500 , Batch: 8 , Initilization: 0 , Fitness: 1
+#Resources: 15 , Tasks: 80 , Population: 2000 , Batch: 3 , Initilization: 0 , Fitness: 1
+Sceduler time measures
+1	total_time:87.2802 t_init:0 t_comp:3.11412e+10 t_comm:0.000725 sum:3.11412e+10
+Island time measures
+ 	T_init:0.109394 T_comp:1.77385e+12 T_comm:0.0045
+Sceduler time measures
+2	total_time:75.1344 t_init:0 t_comp:3.11413e+10 t_comm:0.017965 sum:3.11413e+10
+Island time measures
+ 	T_init:0.054836 T_comp:3.01591e+12 T_comm:0.077939
+--------------------------------------------------------
+#Resources: 15 , Tasks: 80 , Population: 2000 , Batch: 5 , Initilization: 0 , Fitness: 1
+Sceduler time measures
+1	total_time:65.5202 t_init:0 t_comp:1.79661e+10 t_comm:0.00044 sum:1.79661e+10
+Island time measures
+ 	T_init:0.068706 T_comp:1.04922e+12 T_comm:0.002927
+Sceduler time measures
+2	total_time:75.785 t_init:0 t_comp:1.79661e+10 t_comm:0.00705 sum:1.79661e+10
+Island time measures
+ 	T_init:0.035612 T_comp:2.41105e+12 T_comm:0.045414
+--------------------------------------------------------
+#Resources: 15 , Tasks: 80 , Population: 2000 , Batch: 7 , Initilization: 0 , Fitness: 1
+Sceduler time measures
+1	total_time:66.1136 t_init:0 t_comp:1.31751e+10 t_comm:0.000368 sum:1.31751e+10
+Island time measures
+ 	T_init:0.055696 T_comp:8.75548e+11 T_comm:0.00259
+--------------------------------------------------------
