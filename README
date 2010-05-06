@@ -1,0 +1,4 @@
+This is a simulation implemented in MPI, for task scheduling in a heterogeneous distributed computing environment such as the Grid.
+
+The compile this simulation just run the make.sh. If there is a problem in compiling try changing the mpiCC to mpic++ or mpicxx.
+To run type mpirun -np <NumOfProcessors> ./simulation -r <NumOfResources> -t <TasksToSchdule> -p <PopulationSize> -b <BatchSize> -i <InitializationMethod> -f <TypeOfFitnessFunction> 
